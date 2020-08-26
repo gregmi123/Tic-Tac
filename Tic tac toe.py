@@ -44,10 +44,6 @@ while True:
                 print("Position is occupied. Enter a new position")
         board[position]=current_player
 
-        
-
-        
-
     #For playing game
     def play_game():
         while game_is_still_going:
